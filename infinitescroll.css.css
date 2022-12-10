@@ -1,0 +1,19 @@
+.imagearea {
+ margin: 10px 30%;
+}
+.imagearea img{
+    width: 100%;
+}
+@media screen and  (max-width:600px){
+    .imagearea{
+        margin: 10px;
+    }
+    
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 10px;
+    font-size: 50px;
+}
